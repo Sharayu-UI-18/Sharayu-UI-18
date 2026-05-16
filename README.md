@@ -13,6 +13,15 @@
 - Git & GitHub
 
 ## Projects
+### 📌 AI Expense Categorizer
+An AI-powered feature that automatically categorizes expenses into different spending groups using machine learning and smart classification techniques.
+
+Features:
+- Automatic expense categorization
+- Smart prediction-based grouping
+- Improved budget analysis
+- Beginner-friendly AI integration
+  
 ### 📌 Budget Tracker Website
 A student-focused expense management website with:
 - Expense tracking
