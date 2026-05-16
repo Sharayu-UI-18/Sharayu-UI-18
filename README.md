@@ -1,16 +1,46 @@
-## Hi there 👋
+# Hi, I'm Sharayu 👋
 
-<!--
-**Sharayu-UI-18/Sharayu-UI-18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Second Year CSE (AI & ML) Student  
+💻 Interested in AI, Machine Learning, Backend Development & Open Source  
+🌱 Currently learning Python, ML, Data Structures and Open Source Contribution  
+🚀 Building projects focused on real-world student/community problems
 
-Here are some ideas to get you started:
+## Tech Stack
+- Python
+- PHP
+- HTML/CSS/JavaScript
+- MySQL
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+### 📌 Budget Tracker Website
+A student-focused expense management website with:
+- Expense tracking
+- Dashboard analytics
+- Habit streak system
+- Transaction management
+
+### 📌 SyncUp
+A social networking platform for college students featuring:
+- Student collaboration
+- Domain-based communities
+- Networking opportunities
+
+### 📌 Vaccine Hesitancy in India
+A research and data analysis project focused on understanding vaccine hesitancy trends in India using data visualization and analytical techniques.
+
+Key highlights:
+- Data analysis and interpretation
+- Visualization of vaccination trends
+- Research-based insights
+- Collaborative academic project
+
+## Currently Exploring
+- Machine Learning
+- Open Source Contributions
+- AI Agents
+- Backend Development
+
+## Connect With Me
+- LinkedIn: https://www.linkedin.com/in/sharayu-kotkar-864a0a32a/
+- GitHub: https://github.com/Sharayu-UI-18
