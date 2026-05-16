@@ -7,6 +7,8 @@
 
 ## Tech Stack
 - Python
+- Java
+- CPP
 - PHP
 - HTML/CSS/JavaScript
 - MySQL
@@ -19,8 +21,9 @@ An AI-powered feature that automatically categorizes expenses into different spe
 Features:
 - Automatic expense categorization
 - Smart prediction-based grouping
-- Improved budget analysis
-- Beginner-friendly AI integration
+- SQL database integrated
+- AI integration
+- Dynamic History updation
   
 ### 📌 Budget Tracker Website
 A student-focused expense management website with:
